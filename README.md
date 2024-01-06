@@ -1,1 +1,1 @@
-# implementation du pivot de gauss et de la methode de gradiant
+# implementation du pivot de gauss et de la methode de gradient
